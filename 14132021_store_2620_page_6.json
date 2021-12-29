@@ -1,37 +1,46 @@
 [
   {
-    "title": "Smurf Houses Cartoon_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51702964867_45b2f45d0f_o.gif",
-    "id_album": "228264850",
+    "title": "Wolf_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51704849755_ac86460695_o.gif",
+    "id_album": "-1110849965",
+    "total": 5,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1110849965_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Smurf Houses Cartoon_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51780566838_3dc6272ffc_n.jpg",
+    "id_album": "228264852",
     "total": 4,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_228264850_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_228264852_index_0.json"
       }
     ]
   },
   {
-    "title": "Cute Art_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51696806254_9bb366855b_o.gif",
-    "id_album": "-629963486",
-    "total": 76,
-    "size_max_detail_page": 2,
+    "title": "Raccoons_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51702499092_ed19d068cf_o.gif",
+    "id_album": "1998705267",
+    "total": 20,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963486_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963486_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705267_index_0.json"
       }
     ]
   },
   {
     "title": "Smurf Houses Cartoon_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51702972087_5f85f8fd0f_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51780316741_d819650cfa_n.jpg",
     "id_album": "228264853",
     "total": 4,
     "size_max_detail_page": 1,
@@ -43,88 +52,75 @@
     ]
   },
   {
-    "title": "Kitty & My Melody_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51699454243_83ac9fbecb_o.gif",
-    "id_album": "-378480545",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480545_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480545_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Milkmokka Fofo_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51700417036_6dd8186f07_o.gif",
-    "id_album": "-1232313348",
-    "total": 32,
+    "title": "Buddhist Terms_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51781032915_06f54f5e37_o.gif",
+    "id_album": "518853930",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1232313348_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_518853930_index_0.json"
       }
     ]
   },
   {
-    "title": "Kung Fu Panda_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51699819968_6d0b7c4707_o.gif",
-    "id_album": "1222783552",
+    "title": "One Piece Anime_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51779469587_26c2d237af_o.gif",
+    "id_album": "1351456604",
+    "total": 135,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456604_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456604_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456604_index_2.json"
+      }
+    ]
+  },
+  {
+    "title": "Kung Fu Panda_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51780213096_9de94a3b88_o.gif",
+    "id_album": "1222783554",
     "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1222783552_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1222783554_index_0.json"
       }
     ]
   },
   {
-    "title": "Animal Art_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51695469670_8f0388dca3_o.gif",
-    "id_album": "97007461",
-    "total": 7,
+    "title": "Panda Art_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51780936294_abd1681267_o.gif",
+    "id_album": "586574344",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_97007461_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_586574344_index_0.json"
       }
     ]
   },
   {
-    "title": "Kitty & My Melody_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51699356096_9ae549bf17_o.gif",
-    "id_album": "-378480542",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "One Punch Man Anime_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51702783690_4c1b6dcca2_o.gif",
-    "id_album": "-1626855610",
+    "title": "Scenery",
+    "link_thumb": "https://live.staticflickr.com/65535/51693995721_0f1d731c19_o.gif",
+    "id_album": "-715666509",
     "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1626855610_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-715666509_index_0.json"
       }
     ]
   }
