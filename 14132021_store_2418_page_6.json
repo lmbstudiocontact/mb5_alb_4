@@ -1,115 +1,7 @@
 [
   {
-    "title": "Death Note Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51780814234_f7bf0a7866_o.gif",
-    "id_album": "-374116174",
-    "total": 8,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-374116174_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Kitty & My Melody_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51779377932_cab4e1b515_o.gif",
-    "id_album": "-378480542",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Ghibli Anime_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51780223436_fc00e3cc82_o.gif",
-    "id_album": "-749595043",
-    "total": 17,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-749595043_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Music_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51700013852_53be79ceab_o.gif",
-    "id_album": "908522976",
-    "total": 24,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_908522976_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Doraemon Anime_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51779361452_b3ff6455cb_o.gif",
-    "id_album": "405661394",
-    "total": 16,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_405661394_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Dog_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51696759131_97a8cd7b65_o.gif",
-    "id_album": "2052455277",
-    "total": 22,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2052455277_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Fox Art_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51780846734_c6cd4fa8e7_o.gif",
-    "id_album": "-646110861",
-    "total": 7,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-646110861_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Ragnarok_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51704260155_e28f524b64_o.gif",
-    "id_album": "1601322213",
-    "total": 15,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1601322213_index_0.json"
-      }
-    ]
-  },
-  {
     "title": "Joker Harley Quinn_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51780852754_fb94caf48c_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51787259976_8cea50c86f_o.gif",
     "id_album": "-2022175635",
     "total": 24,
     "size_max_detail_page": 1,
@@ -117,6 +9,138 @@
       {
         "index_page": 0,
         "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2022175635_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Animals",
+    "link_thumb": "https://live.staticflickr.com/65535/51786407187_fc31c37d84_o.gif",
+    "id_album": "807717335",
+    "total": 1,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_807717335_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Girl_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51787856594_d52ac52abf_o.gif",
+    "id_album": "1702905294",
+    "total": 245,
+    "size_max_detail_page": 5,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905294_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905294_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905294_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905294_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905294_index_4.json"
+      }
+    ]
+  },
+  {
+    "title": "Buddhist Terms_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787203076_8e8a6b85dd_o.gif",
+    "id_album": "518853929",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_518853929_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Light_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51786470312_95a2b0d174_o.gif",
+    "id_album": "1056603476",
+    "total": 79,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1056603476_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1056603476_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Wolf_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787501263_05c3bf9a15_o.gif",
+    "id_album": "-1110849962",
+    "total": 5,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1110849962_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Star War_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51787873764_84eb293c49_o.gif",
+    "id_album": "-1637191764",
+    "total": 2,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1637191764_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Couple Art_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51787190046_cf4889beb9_o.gif",
+    "id_album": "1239230759",
+    "total": 48,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1239230759_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "One Piece Anime_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787493893_c36de7b561_o.gif",
+    "id_album": "1351456608",
+    "total": 135,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456608_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456608_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456608_index_2.json"
       }
     ]
   }

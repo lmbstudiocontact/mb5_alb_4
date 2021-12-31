@@ -1,118 +1,130 @@
 [
   {
-    "title": "Horror Art_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51781070530_e16d6411ee_o.gif",
-    "id_album": "529377273",
-    "total": 41,
-    "size_max_detail_page": 1,
+    "title": "One Piece Anime_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787493893_c36de7b561_o.gif",
+    "id_album": "1351456608",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_529377273_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456608_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456608_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456608_index_2.json"
       }
     ]
   },
   {
-    "title": "Shiv_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51702851037_d615a55a17_o.gif",
-    "id_album": "-568595356",
+    "title": "Disney Cartoon_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51786377637_f5e5b7e9ea_o.gif",
+    "id_album": "-779586267",
+    "total": 54,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586267_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586267_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Rio 2_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787542888_fdbfd3e913_o.gif",
+    "id_album": "-1210862917",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1210862917_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Animal Art_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787211681_2c988c3447_o.gif",
+    "id_album": "97007462",
+    "total": 7,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_97007462_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Smurf Houses Cartoon_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51788144025_188dbc8522_o.gif",
+    "id_album": "228264852",
+    "total": 4,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_228264852_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Milkmokka Fofo_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51787237681_ffc3e05c7f_o.gif",
+    "id_album": "-1232313348",
     "total": 32,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-568595356_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1232313348_index_0.json"
       }
     ]
   },
   {
-    "title": "Monkey_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51701453859_0b74481183_o.gif",
-    "id_album": "444828983",
-    "total": 2,
+    "title": "Mocmoc_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787903794_1a82b9a179_o.gif",
+    "id_album": "-661938807",
+    "total": 28,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_444828983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-661938807_index_0.json"
       }
     ]
   },
   {
-    "title": "Joker Harley Quinn_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51780835654_74097b794d_o.gif",
-    "id_album": "-2022175633",
-    "total": 24,
+    "title": "Fox Art_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51786416387_6c7b728976_o.gif",
+    "id_album": "-646110861",
+    "total": 7,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2022175633_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-646110861_index_0.json"
       }
     ]
   },
   {
-    "title": "Boku No Hero Academia Anime_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51779367942_8d9d76da62_o.gif",
-    "id_album": "197312542",
-    "total": 19,
+    "title": "Little Monk_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51786425757_baf68dd100_o.gif",
+    "id_album": "213942176",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_197312542_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Panda_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51702335281_a0a1a3b94c_o.gif",
-    "id_album": "1123959312",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1123959312_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Kung Fu Panda_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51780213096_9de94a3b88_o.gif",
-    "id_album": "1222783554",
-    "total": 2,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1222783554_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Angry Birds_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51780187641_553bcfe5ed_o.gif",
-    "id_album": "2112729289",
-    "total": 26,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2112729289_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "One Punch Man Anime_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51781179090_dded760372_o.gif",
-    "id_album": "-1626855612",
-    "total": 2,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1626855612_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_213942176_index_0.json"
       }
     ]
   }
